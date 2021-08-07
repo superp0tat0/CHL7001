@@ -1,0 +1,6 @@
+names:
+- 0. opacity
+- 1. none
+nc: 2
+train: /Users/siyiwei/Desktop/COVID_XRay_Detection/models/train.txt
+val: /Users/siyiwei/Desktop/COVID_XRay_Detection/models/val.txt
