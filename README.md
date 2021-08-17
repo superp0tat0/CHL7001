@@ -23,18 +23,20 @@ There are different scripts that are responsible for different topics. Here is t
     * Compare different image enhancement techniques, the optimum solution we had is **CLAHE**
 1. Dense121_transfer_learning.ipynb
     * Compare the transfer_learning on CheXNet with Naive Dense 121 model for classification tasks.
-1. EffNet_train.ipynb (To be transferred from cloud to github)
+1. EffNet_train.ipynb 
     * Train the efficient net for image classification tasks.
-1. FRCNN_train.ipynb (To be transferred from cloud to github)
+    * (To be transferred from cloud to github)
+1. FRCNN_train.ipynb
     * Train the Faster RCNN for object detection tasks.
+    * (To be transferred from cloud to github)
 1. YOLO_train_scripts.ipynb
     * Train the YOLOv5 model for object detection tasks.
-1. prediction.ipynb (To be transferred from cloud to github)
+1. prediction.ipynb
     * generate the predictions based on cached models. Used for Kaggle competition submissions
-1. utils.ipynb (To be transferred from cloud to github)
-    * Helper functions that will be reused.
-1. Cloud_Deployment.ipynb (To be Done)
+    * (To be transferred from cloud to github)
+1. Cloud_Deployment.ipynb
     * Deploy the optimum YOLOv5 model with AWS SageMaker for real time predictions. I haven't yet build the APIs, so you need to upload the image locally.
+    * (To be Done)
 
 # Future Work
 
